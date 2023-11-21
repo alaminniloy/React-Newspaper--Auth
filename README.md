@@ -1,6 +1,6 @@
 # React + Vite
 
-# Live Link: [ https://react-dragon-news-auth-20ff8.web.app/]
+Live Link: [ https://react-dragon-news-auth-20ff8.web.app/]
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
